@@ -20,5 +20,3 @@ A pipeline that extracts text from photos of handwritten notes using Microsoft's
 - Ink bleed-through from the back of a page can produce garbled text
 - Table/grid layouts with skewed rows aren't segmented cleanly (built for paragraph-style notes, not structured tables)
 
-## Example
-[Add a before/after screenshot or sample output here]
